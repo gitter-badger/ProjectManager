@@ -1,6 +1,8 @@
 ProjectManager
 ==============
 
+[![Join the chat at https://gitter.im/arborworkflows/ProjectManager](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/arborworkflows/ProjectManager?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Application prototype to upload datasets into Arbor, create new projects, and organize source data.
 
 This application is originally developed using Python and PyQt technology. It allows users to create 
